@@ -1,0 +1,2 @@
+# devops
+only for prectical
